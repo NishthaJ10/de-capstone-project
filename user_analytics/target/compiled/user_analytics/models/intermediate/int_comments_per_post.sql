@@ -5,3 +5,4 @@ from
     USER_ACTIVITY_DB.ANALYTICS.stg_posts
 group by 
     post_id
+-- #new
